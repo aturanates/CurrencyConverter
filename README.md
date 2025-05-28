@@ -4,7 +4,7 @@ A sleek and modern Windows Forms application for real-time currency conversion w
 
 ![Currency Converter Demo](https://img.shields.io/badge/Platform-Windows-blue)
 ![.NET Framework](https://img.shields.io/badge/.NET-Framework%204.7.2+-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ## ✨ Features
 
